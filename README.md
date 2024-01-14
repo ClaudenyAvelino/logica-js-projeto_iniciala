@@ -9,7 +9,7 @@ Também, abordo como o mercado escreveria este código que, seguindo boas práti
 # Preparando o ambiente
 
 O que é necessário instalar, disponibilizamos alguns arquivos de código ou material necessário para contribuir com a experiência de aprendizado incrível e sustentável.
-[<https://github.com/ClaudenyAvelino/logica-js-projeto_iniciala>]
+[Baixe aqui]<https://github.com/ClaudenyAvelino/logica-js-projeto_iniciala>
 
 Saber trabalhar com um código que foi desenvolvido por outras pessoas é de extrema importância para a carreira de desenvolvimento de software.
 
@@ -18,3 +18,22 @@ Imaginar que na maioria das vezes irá implementar codigos do zero, é muito com
 # E quais ferramentas será utilizada
 
 Existem varias a exemplo Visual Studio Code, que é um editor de código gratuito e de código aberto desenvolvido pela Microsoft.
+
+## Nesse temos alguns arquivos.
+
+1. img, vamos usá-lo para editar as imagens do projeto;
+2. app.js, que ainda não tem nenhuma linha de código;
+3. index.html, referente a parte visual que vamos explorar em breve;
+4. style.css, os estilos.
+
+Arquivos fornecido por outro time, no momento focaremos na linguagemn de programação js.
+
+# Começando a criação do código
+
+Então, no Visual Studio Code vamos começar a escrever o código. Apertamos Ctrl+ B para visualizarmos apenas o app.js.
+
+Para passar uma mensagem para a pessoa que iniciou o jogo, usaremos a palavra alert seguido de parênteses.
+
+>Lembrando que usamos alert e não alerta, pois o Javascript foi desenvolvido utilizando o idioma inglês.
+
+>alert('Boas-vindas ao jogo do Número Secreto');

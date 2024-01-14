@@ -1,1 +1,1 @@
-//Inicio do projeto js.
+alert('Boas vindas ao jogo do número secreto!')
