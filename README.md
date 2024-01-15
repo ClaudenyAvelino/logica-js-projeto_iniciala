@@ -9,7 +9,7 @@ Também, abordo como o mercado escreveria este código que, seguindo boas práti
 # Preparando o ambiente
 
 O que é necessário instalar, disponibilizamos alguns arquivos de código ou material necessário para contribuir com a experiência de aprendizado incrível e sustentável.
-[Baixe aqui]<https://github.com/ClaudenyAvelino/logica-js-projeto_iniciala>
+[Baixe aqui](<https://github.com/ClaudenyAvelino/logica-js-projeto_iniciala>)
 
 Saber trabalhar com um código que foi desenvolvido por outras pessoas é de extrema importância para a carreira de desenvolvimento de software.
 
@@ -21,10 +21,10 @@ Existem varias a exemplo Visual Studio Code, que é um editor de código gratuit
 
 ## Nesse temos alguns arquivos.
 
-1. img, vamos usá-lo para editar as imagens do projeto;
-2. app.js, que ainda não tem nenhuma linha de código;
-3. index.html, referente a parte visual que vamos explorar em breve;
-4. style.css, os estilos.
+* img, vamos usá-lo para editar as imagens do projeto;
+* app.js, que ainda não tem nenhuma linha de código;
+* index.html, referente a parte visual que vamos explorar em breve;
+* style.css, os estilos.
 
 Arquivos fornecido por outro time, no momento focaremos na linguagemn de programação js.
 
@@ -36,4 +36,35 @@ Para passar uma mensagem para a pessoa que iniciou o jogo, usaremos a palavra al
 
 >Lembrando que usamos alert e não alerta, pois o Javascript foi desenvolvido utilizando o idioma inglês.
 
+Exemplo:
 >alert('Boas-vindas ao jogo do Número Secreto');
+
+Lembre-se sempre de salvar todas as alterações de código!
+ 
+ Abra o arquivo index.html no navegador, a tela será exibida.
+
+ Em seguida será criada uma variavel que em js.
+
+ >let numeroSecreto = 29;
+
+E para perguntar para que seja adicionado um valor o camando em js.
+
+>prompt('Escolha um numero entre 1 e 30.');
+
+Em parte tudo ok conseguimos apresentar a tela de boas vinda e solicitar um numero.
+
+Adicionando a logica com 
+
+## operadores.
+
+Não é igual !=
+igual ==
+Maior >
+
+## Estrutura de controle
+
+SE: IF
+ENQUANTO: WHILE
+
+
+
