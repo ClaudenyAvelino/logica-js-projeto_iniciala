@@ -58,13 +58,19 @@ Adicionando a logica com
 ## operadores.
 
 Não é igual !=
+
 igual ==
+
 Maior >
 
 ## Estrutura de controle
 
 SE: IF
+
 ENQUANTO: WHILE
 
+## Examplo de operador ternario
+
+let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
 
 
