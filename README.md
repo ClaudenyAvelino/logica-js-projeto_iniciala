@@ -1,5 +1,5 @@
 
-# Revisão Lógica de Programação em js (ALURA: Tutores Guilherme Lima Monica Hillman)
+# Revisão Lógica de Programação com JavaScript (ALURA: Tutores Guilherme Lima Monica Hillman)
 
 Vamos revisar o motivo pelo qual a Lógica de Programação é importante para nossa carreira como pessoas desenvolvedoras de software. apresento conceitos comuns para a maioria das linguagens.
 Apresento um projeto, o jogo do número secreto. Nele, a pessoa usuária precisará inserir alguns números para adivinhar qual foi o número aleatório gerado pelo computador.
@@ -73,4 +73,13 @@ ENQUANTO: WHILE
 
 let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
 
+## Deixando o jogo mais dinamico
 
+Número aleatório com a função Math.random()
+
+Exeplo: parseInt(Math.random() * 10 + 1)
+
+
+
+É importante conhecer a documentação do JavaScript. Basta procurar por "JavaScript" no Google e acessar o primeiro link da Mozilla.
+[Baixe aqui](<https://developer.mozilla.org/pt-BR/docs/Web/JavaScript>)
