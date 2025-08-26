@@ -1,5 +1,5 @@
 
-# Revisão Lógica de Programação com JavaScript (ALURA: Tutores Guilherme Lima Monica Hillman)
+# Revisão Lógica de Programação com JavaScript.
 
 Vamos revisar o motivo pelo qual a Lógica de Programação é importante para nossa carreira como pessoas desenvolvedoras de software. apresento conceitos comuns para a maioria das linguagens.
 Apresento um projeto, o jogo do número secreto. Nele, a pessoa usuária precisará inserir alguns números para adivinhar qual foi o número aleatório gerado pelo computador.
