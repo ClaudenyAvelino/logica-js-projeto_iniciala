@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 <h2>🔖 Sobre</h2>
-# Revisão Lógica de Programação com JavaScript.
+<h3>Revisão Lógica de Programação com JavaScript.</h3>
 
 Vamos revisar o motivo pelo qual a Lógica de Programação é importante para nossa carreira como pessoas desenvolvedoras de software. apresento conceitos comuns para a maioria das linguagens.
 Apresento um projeto, o jogo do número secreto. Nele, a pessoa usuária precisará inserir alguns números para adivinhar qual foi o número aleatório gerado pelo computador.
